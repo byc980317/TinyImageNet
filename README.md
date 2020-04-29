@@ -1,1 +1,1 @@
-This is the final project of a deep learning course. I compared performance of a two-layer simple neural network, AlexNet, and VGG-16 on Tiny ImageNet dataset.
+The project is targeted to compare the performance of different deep neural networks on Tiny ImageNet dataset for a image classification task. The results are included in 'Presentation.pdf'.
